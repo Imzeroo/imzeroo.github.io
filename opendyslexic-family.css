@@ -1,0 +1,64 @@
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/Imzeroo/imzeroo.github.io/refs/heads/main/OpenDyslexic-Bold-Italic.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/Imzeroo/imzeroo.github.io/refs/heads/main/OpenDyslexic-Bold-Italic.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/Imzeroo/imzeroo.github.io/refs/heads/main/OpenDyslexic-Bold-Italic.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/Imzeroo/imzeroo.github.io/refs/heads/main/OpenDyslexic-Bold-Italic.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/Imzeroo/imzeroo.github.io/refs/heads/main/OpenDyslexic-Regular.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/Imzeroo/imzeroo.github.io/refs/heads/main/OpenDyslexic-Regular.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/Imzeroo/imzeroo.github.io/refs/heads/main/OpenDyslexic-Regular.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://raw.githubusercontent.com/Imzeroo/imzeroo.github.io/refs/heads/main/OpenDyslexic-Regular.woff2) format('woff2');
+}
